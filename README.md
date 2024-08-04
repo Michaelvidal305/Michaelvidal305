@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michaelvidal305
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning PYTHON & SQL
 - 💞️ I’m looking to collaborate on Data Analytics portfolio
 - 📫 How to reach me vidalmike305@gmail.com
 
